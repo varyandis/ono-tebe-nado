@@ -219,7 +219,7 @@
 }
 
 .card__title {
-   color: #fff;
+  color: #fff;
   font-family: Raleway;
   font-weight: 700;
   font-size: 22px;
@@ -253,13 +253,63 @@
 }
 
 .about {
-  border: 1px solid #000000;
+  display: grid;
+  grid-template-columns: 430px 1fr;
+  grid-template-rows: 100px 140px 1fr;
+  column-gap: 25px;
+  min-height: 487px;
   padding: 0 50px 180px;
-  background: #dacfcf;
+}
+
+.about__logo {
+  display: flex;
+  grid-area: 1 / 1 / 3 / 2;
+  justify-content: center;
+  align-items: center;
+  width: 240px;
+  height: 240px;
+  margin: 0 95px;
+  border: 2px solid #000;
+  border-radius: 50%;
+  background: #000;
+}
+
+.about__column {
+  display: flex;
+  flex-direction: column;
+  grid-area: 2 / 2 / 4 / 3;
+  align-items: start;
+  gap: 100px;
+}
+
+.about__logo-image {
+  width: 148px;
+  height: 114px;
+}
+
+.about__title {
+  color: #000;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 40px;
+  font-style: normal;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.about__text {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  color: #000;
+  font-family: Raleway;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+  line-height: normal;
 }
 
 .footer {
-  border: 1px solid #000000;
   padding: 0 50px 90px;
   background: #dacfcf;
 }
