@@ -3,7 +3,7 @@
   grid-template-columns: repeat(3, 1fr);
   justify-items: center;
   justify-content: space-between;
-  padding: 92px 49px 85px 51px;
+  padding: 92px 49px 80px 51px;
 }
 
 .header__menu {
