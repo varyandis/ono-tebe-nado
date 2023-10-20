@@ -21,7 +21,7 @@
   display: flex;
   gap: 32px;
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -51,7 +51,7 @@
   justify-self: end;
   align-self: center;
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -92,7 +92,7 @@
   flex-direction: column;
   gap: 20px;
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 700;
   font-size: 0;
   font-style: normal;
@@ -137,7 +137,7 @@ span .aligned-text_left {
 .cover__description-text {
   align-self: center;
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
@@ -152,7 +152,7 @@ span .aligned-text_left {
   border: 1px solid #fff;
   padding: 12px 32px;
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
@@ -170,7 +170,7 @@ span .aligned-text_left {
   margin-bottom: 27px;
   margin-left: 40px;
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
@@ -224,7 +224,7 @@ span .aligned-text_left {
 
 .card__title {
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 700;
   font-size: 22px;
   font-style: normal;
@@ -236,7 +236,7 @@ span .aligned-text_left {
 
 .card__text {
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -247,7 +247,7 @@ span .aligned-text_left {
   display: inline-block;
   margin: 30px auto 2px 40px;
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -293,7 +293,7 @@ span .aligned-text_left {
 
 .about__title {
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
@@ -306,7 +306,7 @@ span .aligned-text_left {
   flex-direction: column;
   gap: 25px;
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -321,7 +321,7 @@ span .aligned-text_left {
 
 .footer__menu {
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
